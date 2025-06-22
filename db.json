@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with APIs",
+      "content": "Learn how to fetch data from APIs using JavaScript.",
+      "author": "Alex Johnson",
+      "image": "https://picsum.photos/200?random=1"
+    },
+    {
+      "id": "c883",
+      "title": "heyy",
+      "content": "me",
+      "author": "jonny",
+      "image": "https://picsum.photos/200?random=1"
+    }
+  ]
+}
