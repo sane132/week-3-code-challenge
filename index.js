@@ -125,9 +125,9 @@ function addNewPostListener() {
     });
 }
 
-// ======================
+
 // HELPER FUNCTIONS (FOR FUTURE USE)
-// ======================
+
 
 /** Displays an error message in the UI
  * @param {string} message - The error message to display

@@ -60,12 +60,12 @@ body {
 
 /* Style for the post detail section */
 #post-detail {
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color:rgb(236, 128, 33);
     border-radius: 8px;
     border: 1px solid #ddd;
-    max-width: 600px;
+    max-width: 100px;
 }
 
 /* Style for form */
